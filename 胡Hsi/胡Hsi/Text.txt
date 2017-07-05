@@ -1,0 +1,7 @@
+void BGRtoHSI(cv::Mat &BGRImage, cv::Mat &Hvalue, 
+		cv::Mat &Svalue, cv::Mat &Ivalue, Mat &HSIImage);
+输入RGB图像，输出H、S、I三个分量及HSI图像
+
+本程序包含：
+RGB图像转换HSI图像
+输出输出H、S、I三个分量及HSI图像

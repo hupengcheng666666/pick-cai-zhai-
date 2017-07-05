@@ -1,0 +1,7 @@
+Point* centroid(Mat srcImage);
+输入图像，输出坐标
+
+
+本函数包括
+1、求出质心坐标
+2、输出质心坐标
